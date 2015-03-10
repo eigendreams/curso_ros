@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/viki/curso_ros/catkin/devel/setup.sh
