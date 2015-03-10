@@ -15,4 +15,8 @@ class Talker:
                 while not rospy.is_shutdown():
                         self.update()
                         r.sleep()
+if __name__ == "__main__":
+        talker = Talker()
+        talker.spin()
+
 
