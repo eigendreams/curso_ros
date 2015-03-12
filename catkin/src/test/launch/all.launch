@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<launch>
+
+  <node pkg="test" type="listener.py" name="listener" respawn="true">
+  </node>
+
+  <node pkg="test" type="talker.py" name="talker" respawn="true">
+  </node>
+
+</launch>
