@@ -1,0 +1,16 @@
+**/bin/
+**/build/
+**/devel/
+**/install/
+**/.cproject
+**/.project
+**/.pydevproject
+*~
+**~
+**/*~
+**/**~
+**/**.zip
+**/**.tar
+**.zip
+**.tar
+**.pyc
