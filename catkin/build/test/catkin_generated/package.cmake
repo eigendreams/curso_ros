@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "test")
-set(test_MAINTAINER "jakob <jakob.culebro@gmail.com>")
-set(test_DEPRECATED "")
-set(test_VERSION "0.0.1")
-set(test_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "joy")
-set(test_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "joy")
-set(test_BUILDTOOL_DEPENDS "catkin")

@@ -1,8 +1,0 @@
-prefix=/home/viki/curso_ros/catkin/devel
-
-Name: test
-Description: Description of test
-Version: 0.0.1
-Cflags: -I/home/viki/curso_ros/catkin/src/test/scripts
-Libs: -L/home/viki/curso_ros/catkin/devel/lib 
-Requires: 
