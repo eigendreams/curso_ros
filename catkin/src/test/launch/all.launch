@@ -8,4 +8,10 @@
   <node pkg="test" type="talker.py" name="talker" respawn="true">
   </node>
 
+  <node pkg="turtlesim" type="turtlesim_node" name="turtlesim" respawn="true">
+  </node>s
+
+  <node pkg="test" type="ej.py" name="ej">
+  </node> 
+
 </launch>
